@@ -44,7 +44,7 @@ Mission: >
   that solve real-world problems.
 
 Motto: "Building Secure Systems for the Future."
-
+```
 ---
 ⚡ Tech Stack
 <div align="center">
