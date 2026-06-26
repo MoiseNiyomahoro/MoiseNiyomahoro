@@ -1,38 +1,85 @@
 ```markdown
-# 👋 Hi, I'm NIYOMAHORO MOISE
+<h1 align="center">Hi 👋, I'm NIYOMAHORO MOISE</h1>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
-🚀 Computer Systems & Network Engineer • 🔐 Cybersecurity Specialist • 🌐 IoT Developer • ☁️ Cloud Enthusiast • 💻 Building Secure Systems for the Future
-</marquee>
+<h3 align="center">
+Computer Systems & Network Engineer | Cybersecurity Specialist | IoT Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&repeat=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Computer+Systems+%26+Network+Engineer;Cybersecurity+Specialist;IoT+Developer;Cloud+Infrastructure+Enthusiast;Windows+Server+Administrator;Networking+%7C+Cybersecurity+%7C+Cloud+%7C+IoT;Building+Secure+Systems+for+the+Future;Always+Learning+and+Building+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
 
 ## 🚀 About Me
 
-I design and build secure, reliable, and intelligent technology solutions by combining networking, cybersecurity, IoT, and embedded systems. I enjoy transforming ideas into practical systems that solve real-world problems—from smart automation and secure networks to connected devices and cloud-based solutions.
+I am a **Computer Systems & Network Engineer**, **Cybersecurity Specialist**, and **IoT Developer** passionate about building secure, scalable, and intelligent technology solutions.
+
+- 🔐 Designing secure network infrastructures
+- 🌐 Building reliable computer systems
+- 📡 Developing IoT and embedded systems
+- ☁️ Learning Cloud Infrastructure & DevOps
+- 💻 Creating open-source projects
+- 📚 Always exploring new technologies
 
 ---
 
-## 🖧 Tools & Technologies
+## 🛠️ Tech Stack
 
-- 🌐 Networking: Cisco, TCP/IP, Routing & Switching, VLANs
-- 🔐 Cybersecurity: Network Security, System Hardening, Security Monitoring
-- 📡 IoT & Embedded Systems: ESP8266, Arduino, Firebase, MIT App Inventor
-- 💻 Programming: C/C++, Python, HTML, CSS, JavaScript
-- ☁️ Cloud & Systems: Windows Server, Cloud Computing
-- 📂 Git & GitHub
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bash" />
+</p>
+
+### Networking & Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,powershell,git,github" />
+</p>
+
+### IoT & Embedded Systems
+- ESP8266
+- Arduino
+- Firebase
+- MIT App Inventor
+
+### Cloud & Servers
+- Windows Server Administration
+- Cloud Computing
+- Virtualization
 
 ---
 
-## 📫 Contact Me
+## 📈 GitHub Stats
 
-📍 Rwanda
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+<p align="left">
+📍 Rwanda <br>
 📧 niyomahoromoise04@gmail.com
-
-🌐 GitHub: https://github.com/MoiseNiyomahoro
-
-🌍 Portfolio: https://YOUR_PORTFOLIO
+</p>
 
 ---
 
-> **Building secure systems for the future.**
+<h3 align="center">
+💬 "Building Secure Systems for the Future."
+</h3>
 ```
