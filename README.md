@@ -50,7 +50,6 @@
 
 # 🚀 About Me
 
-```yaml
 Name:    NIYOMAHORO MOISE
 Country: Rwanda 🇷🇼
 
@@ -71,21 +70,7 @@ Mission: >
   that solve real-world problems.
 
 Motto: "Building Secure Systems for the Future."
-```
 
----
-
-# 🔭 Featured Projects
-
-> _Pinned projects coming soon — watch this space._
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔐 `net-sentinel` | Network intrusion detection tool | Python, Bash |
-| 🌐 `iot-gateway` | Secure MQTT gateway for edge devices | C++, Arduino, Firebase |
-| ☁️ `infra-lab` | Home lab cloud infrastructure configs | Docker, Linux |
-
----
 
 # 🌱 Currently Learning
 
