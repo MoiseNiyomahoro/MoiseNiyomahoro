@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;height=260&amp;color=0:00F5FF,50:2563EB,100:111827&amp;text=NIYOMAHORO%20MOISE&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=40&amp;desc=Computer%20Systems%20%26%20Network%20Engineer%20%7C%20Cybersecurity%20Specialist%20%7C%20IoT%20Developer&amp;descAlignY=60"/>
 </p>
@@ -40,7 +42,7 @@ Computer Systems &amp; Network Engineer • Cybersecurity Specialist • IoT Dev
 
 # 🚀 About Me
 
-```yaml
+
 Name: NIYOMAHORO MOISE
 
 Location: Rwanda 🇷🇼
@@ -142,4 +144,4 @@ Motto:
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;section=footer&amp;height=140&amp;color=0:111827,50:2563EB,100:00F5FF"/>
 </p>
-````
+
