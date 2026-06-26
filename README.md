@@ -6,41 +6,39 @@ Computer Systems & Network Engineer • Cybersecurity Specialist • IoT Develop
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+Profile!;Computer+Systems+%26+Network+Engineer;Cybersecurity+Specialist;IoT+Developer;Cloud+Infrastructure+Enthusiast;Windows+Server+Administrator;Networking+%7C+Cybersecurity+%7C+Cloud+%7C+IoT;Building+Secure+Systems+for+the+Future" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Systems+%26+Network+Engineer;Cybersecurity+Specialist;IoT+Developer;Cloud+Infrastructure+Enthusiast;Building+Secure+Systems+for+the+Future"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoiseNiyomahoro&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/MoiseNiyomahoro?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/MoiseNiyomahoro?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MoiseNiyomahoro&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/MoiseNiyomahoro?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-I am passionate about building **secure computer systems**, **enterprise networks**, **cloud infrastructure**, and **IoT solutions** that solve real-world problems.
+I am passionate about designing secure systems, building reliable networks, and developing intelligent IoT solutions.
 
-- 🌐 Computer Systems & Networking
 - 🔐 Cybersecurity
+- 🌐 Computer Networks
 - ☁️ Cloud Infrastructure
 - 🖥 Windows Server Administration
-- 📡 Internet of Things (IoT)
+- 📡 Internet of Things
 - ⚡ Embedded Systems
-- 📚 Continuous Learner
-- 🤝 Open Source Contributor
+- 🚀 Open Source
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,bash"/>
 </p>
 
-### 🌐 Networking • Operating Systems • Development
+### Systems & Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,firebase,arduino"/>
@@ -48,22 +46,30 @@ I am passionate about building **secure computer systems**, **enterprise network
 
 ---
 
-# 📖 Currently Learning
+# 🌱 Currently Learning
 
-```text
-✔ Enterprise Networking
-✔ Ethical Hacking
-✔ Cloud Computing
-✔ Windows Server
-✔ Docker
-✔ Kubernetes
-✔ Linux Administration
-✔ DevOps Fundamentals
-```
+- Enterprise Networking
+- Ethical Hacking
+- Docker
+- Kubernetes
+- Cloud Computing
+- DevOps
+- Linux Administration
 
 ---
 
-# 📈 GitHub Statistics
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🏠 Smart Home Automation | ESP8266 + Firebase + MIT App Inventor |
+| 🌐 Network Design | VLANs, Routing & Switching |
+| 🔐 Security Labs | Firewall & Network Security |
+| ☁️ Cloud Labs | Windows Server & Cloud Services |
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -73,19 +79,11 @@ I am passionate about building **secure computer systems**, **enterprise network
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=MoiseNiyomahoro&theme=github-dark-blue&hide_border=true"/>
 
 </p>
-
----
-
-# 📊 Contribution Graph
 
 <p align="center">
 
@@ -95,11 +93,11 @@ I am passionate about building **secure computer systems**, **enterprise network
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MoiseNiyomahoro&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MoiseNiyomahoro&theme=algolia&no-frame=true"/>
 
 </p>
 
@@ -117,34 +115,17 @@ I am passionate about building **secure computer systems**, **enterprise network
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://moiseniyomahoro.vercel.app">
+<a href="https://moiseniyomahoromoise.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 </p>
-
----
-
-# 📌 Featured Projects
-
-- 🔐 Network Security Labs
-- 📡 IoT Smart Home Automation
-- ☁️ Cloud Infrastructure Projects
-- 🖥 Windows Server Administration Labs
-- 🌐 Cisco Networking Projects
-- 💻 Embedded Systems using ESP8266
 
 ---
 
 <p align="center">
 
-## 💬 Motto
-
-### **"Building Secure Systems for the Future."**
+### 💬 *Building Secure Systems for the Future.*
 
 </p>
-````
+```
