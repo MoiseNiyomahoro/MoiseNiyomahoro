@@ -28,7 +28,7 @@ I design and build secure, reliable, and intelligent technology solutions by com
 
 📧 niyomahoromoise04@gmail.com
 
-🌐 GitHub: https://github.com/YOUR_USERNAME
+🌐 GitHub: https://github.com/MoiseNiyomahoro
 
 🌍 Portfolio: https://YOUR_PORTFOLIO
 
