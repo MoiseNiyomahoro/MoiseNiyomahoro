@@ -1,5 +1,5 @@
 
-<h1 align="center">NIYOMAHORO MOISE</h1>
+<h1 align="center">MOISE NIYOMAHORO</h1>
 
 <p align="center">
   Computer Systems & Network Engineer | Cybersecurity | IoT | Cloud Computing
@@ -8,12 +8,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5FF,100:2563EB&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=35&fontAlignY=40"/>
 </p>
-
----
-
-<!-- ========================= -->
-<!--        MOTTO             -->
-<!-- ========================= -->
 
 <h2 align="center">💡 Motto</h2>
 
