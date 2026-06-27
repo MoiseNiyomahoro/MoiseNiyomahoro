@@ -1,8 +1,8 @@
 
-<h1 align="center"> HI, NIYOMAHORO MOISE</h1>
+<h1 align="center">NIYOMAHORO MOISE</h1>
 
 <p align="center">
-  Computer Systems & Network Engineering Student | Cybersecurity | IoT | Cloud Computing
+  Computer Systems & Network Engineer | Cybersecurity | IoT | Cloud Computing
 </p>
 
 <p align="center">
@@ -18,26 +18,8 @@
 <h2 align="center">💡 Motto</h2>
 
 <p align="center">
-  <em>"Building Secure, Scalable, and Intelligent Systems for the Future."</em>
+  <em>"Building Secure Systems for the Future"</em>
 </p>
-
----
-
-<!-- ========================= -->
-<!--        ABOUT             -->
-<!-- ========================= -->
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  Computer Systems & Network Engineering student passionate about Cybersecurity, Cloud Computing, Networking, IoT, and Software Development. I enjoy building secure and scalable systems through hands-on projects and continuous learning.
-</p>
-
----
-
-<!-- ========================= -->
-<!--        SKILLS            -->
-<!-- ========================= -->
 
 <h2 align="center">🛠 Skills</h2>
 
