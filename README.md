@@ -25,17 +25,10 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
----
-
-
-<!-- ========================= -->
-<!--       CONNECT            -->
-<!-- ========================= -->
-
 <h2 align="center">📬 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://wa.me/YOUR_PHONE_NUMBER?text=Hello%20Moise,%20I%20found%20your%20GitHub%20profile">
+  <a href="https://wa.me/+250733926182?text=Hello%20Moise,%20I%20found%20your%20GitHub%20profile">
     <img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 
@@ -43,7 +36,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/MoiseNiyomahoro">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
