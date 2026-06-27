@@ -23,6 +23,14 @@
   <img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cloud-2563EB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Solidworks-1E90FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded System-1E90FF?style=for-the-badge"/>
+  
+  
+  
+  
 </p>
 
 <h2 align="center">📬 Connect With Me</h2>
