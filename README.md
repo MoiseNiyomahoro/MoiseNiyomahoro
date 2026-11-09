@@ -18,10 +18,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
   <img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge&logo=googlehome&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-2563EB?style=for-the-badge&logo=icloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-1E90FF?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/SolidWorks-1E90FF?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
