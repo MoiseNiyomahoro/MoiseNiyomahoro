@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5FF,100:2563EB&text=MOISE%20NIYOMAHORO&fontColor=ffffff&fontSize=35&fontAlignY=40"/>
 </p>
 <p align="center">
-  Computer Systems & Network Engineer | Cybersecurity | IoT | Cloud Computing
+  Computer Systems & Network assistant | computer Maintanance | IoT | Cloud Computing
 </p>
 
 <h2 align="center">💡 Motto</h2>
